@@ -1,0 +1,3 @@
+```
+mvn clean javafx:run
+```
